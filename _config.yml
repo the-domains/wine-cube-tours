@@ -1,7 +1,7 @@
 name: Wine Cube Tours
 favicon: null
-layout_spectrum: 0.26771182497031987
-typography_spectrum: 0.827659975271672
+layout_spectrum: 1
+typography_spectrum: 0.49556
 cta:
   domain: null
   bucket: null
